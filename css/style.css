@@ -1,0 +1,38 @@
+body{
+  font: 20px Garamond; 
+}
+
+.navbar {
+  background-color: #A3A3A3;
+}
+
+.quem-somos {
+  background-color: #BDBDBD;
+  padding-top: 25px;
+  padding-bottom:25px;
+}
+
+.camaradas {
+  background-color: #D7D7D7;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.descricao {
+  font-size: 16px;
+  padding-top: 6px;
+}
+
+.faca-parte {
+  background-color: #F1F0EF;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.footer {
+  padding-top: 15px;
+  padding-bottom: 1px;
+  font-size: 12px;
+  background-color: black;
+  color: white;
+}
